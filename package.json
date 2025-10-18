@@ -1,0 +1,23 @@
+{
+  "name": "week_1_assg",
+  "version": "1.0.0",
+  "description": "This project demonstrates MongoDB fundamentals using Node.js and MongoDB Atlas.\r It includes CRUD operations, advanced queries, aggregation pipelines, and indexing.",
+  "main": "insert_books.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mungai-42/mongodb.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mungai-42/mongodb/issues"
+  },
+  "homepage": "https://github.com/mungai-42/mongodb#readme",
+  "dependencies": {
+    "mongodb": "^6.20.0"
+  }
+}
